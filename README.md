@@ -1,36 +1,109 @@
-# 💫 About Me:
-## About Me<br><br>Hi, I'm **Ahsan Ali** from Pakistan. I'm interested in **IT, technology, and problem-solving**, and I'm currently building my skills in different areas of digital and technical work.<br><br>I enjoy working with **computers, IT support, Excel and data, and basic web development**. I like learning by actually building things, testing different tools, and figuring out how things work.<br><br>### Currently working on<br><br>- 💻 IT & computer support<br>- 📊 Excel & data tasks<br>- 🌐 Basic web development<br>- 🛠️ Personal projects and experiments<br>- 📚 Learning new tools and improving my technical skills<br><br>I'm still at the beginning of my journey, but I'm focused on gaining real experience and building useful projects along the way.
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · ahsannraj</sub></p>
+<h1>Ahsan Ali</h1>
+<h2>Product-minded developer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Pakistan</sub></p>
+<p><a href="https://github.com/ahsannraj">GitHub</a> &nbsp;·&nbsp; <a href="https://ahsanraj.vercel.app">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/130326275?v=4" width="180" alt="Ahsan Ali GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzahsanraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsanraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/buildwithchain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahsanraj9t6@gmail.com) 
+<h2>What teams can evaluate quickly</h2>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AhsannRaj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AhsannRaj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AhsannRaj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>2 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>5 contributions · 3 active days</p></td>
+</tr>
+</table>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AhsannRaj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
----
-[![](https://komarev.com/ghpvc/?username=AhsannRaj&icon=6&color=8)](https://visitcount.itsvg.in)
+<h2>Proof at a glance</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<!--
-**AhsannRaj/AhsannRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Ahsan Ali GitHub proof metrics" />
+</picture>
+</p>
 
-Here are some ideas to get you started:
+<h2>Selected work</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&repos=ahsannraj%2FAhsannRaj%2Cahsannraj%2FDigital-Identity-Showcase&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&repos=ahsannraj%2FAhsannRaj%2Cahsannraj%2FDigital-Identity-Showcase&v=recruiter-projects-1&mode=dark" width="100%" alt="Ahsan Ali selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/AhsannRaj/AhsannRaj">AhsannRaj</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/AhsannRaj/AhsannRaj">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/AhsannRaj/Digital-Identity-Showcase">Digital-Identity-Showcase</a></h3><p>Repository for https://replit.com/@AhsanAli50/Digital-Identity-Showcase</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Ahsan Ali technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Ahsan Ali contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/ahsannraj">GitHub</a><br /><a href="https://ahsanraj.vercel.app">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Ahsan Ali · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
