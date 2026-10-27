@@ -1,119 +1,109 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/130326275?v=4" width="170" alt="Ahsan Ali GitHub avatar" />
-
-  <br />
-
-  <svg width="980" height="110" viewBox="0 0 980 110" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="glowGrad" x1="0%" x2="100%" y1="0%" y2="0%">
-        <stop offset="0%" stop-color="#8b5cf6">
-          <animate attributeName="stop-color" values="#8b5cf6;#06b6d4;#22c55e;#f59e0b;#8b5cf6" dur="9s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="35%" stop-color="#06b6d4">
-          <animate attributeName="stop-color" values="#06b6d4;#22c55e;#f59e0b;#8b5cf6;#06b6d4" dur="9s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="70%" stop-color="#22c55e">
-          <animate attributeName="stop-color" values="#22c55e;#f59e0b;#8b5cf6;#06b6d4;#22c55e" dur="9s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#f59e0b">
-          <animate attributeName="stop-color" values="#f59e0b;#8b5cf6;#06b6d4;#22c55e;#f59e0b" dur="9s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-
-    <rect x="10" y="26" width="960" height="58" rx="29" fill="url(#glowGrad)" opacity="0.12"/>
-    <text x="50%" y="65" text-anchor="middle" font-size="30" font-weight="800" font-family="Segoe UI, Arial, sans-serif" fill="url(#glowGrad)" letter-spacing="1.8">
-      AHSAN ALI
-    </text>
-  </svg>
-
-  <h1 style="margin: 4px 0 8px 0; font-size: 36px; font-weight: 900; background: linear-gradient(90deg, #8b5cf6, #06b6d4, #22c55e, #f59e0b); -webkit-background-clip: text; background-clip: text; color: transparent;">
-    Ahsan Ali
-  </h1>
-
-  <h3 style="margin: 0; font-size: 20px; color: #dfeaff; letter-spacing: 1px;">
-    Product-minded developer
-  </h3>
-
-  <p style="margin-top: 12px; font-size: 16px; color: #dfeafc;">
-    Building useful software and sharing the work in public.
-  </p>
-
-  <p style="margin: 16px 0 10px;">
-    <a href="https://github.com/ahsannraj" style="text-decoration: none; color: #ffffff; background: linear-gradient(90deg, #8b5cf6, #2563eb); padding: 11px 20px; border-radius: 999px; font-weight: 700; display: inline-block; margin: 0 8px;">GitHub</a>
-    <a href="https://ahsanraj.vercel.app" style="text-decoration: none; color: #ffffff; background: linear-gradient(90deg, #0ea5e9, #22c55e); padding: 11px 20px; border-radius: 999px; font-weight: 700; display: inline-block; margin: 0 8px;">Website</a>
-  </p>
-
-  <p><sub style="color: #aabbd9;">Based in Pakistan</sub></p>
-
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · ahsannraj</sub></p>
+<h1>Ahsan Ali</h1>
+<h2>Product-minded developer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Pakistan</sub></p>
+<p><a href="https://github.com/ahsannraj">GitHub</a> &nbsp;·&nbsp; <a href="https://ahsanraj.vercel.app">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/130326275?v=4" width="180" alt="Ahsan Ali GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
-
-## About
-
-I build useful software, learn by shipping, and share my work in public.
-
-Focused on practical product thinking, software development, and continuous learning through hands-on work.
-
----
-
-## Quick Overview
+<h2>What teams can evaluate quickly</h2>
 
 <table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <p><strong style="color: #8b5cf6;">Role Fit</strong></p>
-      <p>Product-minded developer</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <p><strong style="color: #06b6d4;">Public Proof</strong></p>
-      <p>2 repositories</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <p><strong style="color: #22c55e;">Momentum</strong></p>
-      <p>Building in public</p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>2 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>5 contributions · 3 active days</p></td>
+</tr>
 </table>
 
----
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-## Selected Work
+<h2>Proof at a glance</h2>
 
-### [AhsannRaj](https://github.com/AhsannRaj/AhsannRaj)
-A selected public project and profile repository.
-
-### [Digital-Identity-Showcase](https://github.com/AhsannRaj/Digital-Identity-Showcase)
-A public repository showcasing work and a project concept tied to digital identity.
-
----
-
-## Current Focus
-
-- Building useful software
-- Improving technical skills
-- Sharing work in public
-- Learning through practical project work
-
----
-
-## Open To
-
-- Thoughtful product work
-- Useful engineering opportunities
-- Ambitious teams building meaningful things
-
----
-
-## Connect
-
-- GitHub: https://github.com/ahsannraj
-- Website: https://ahsanraj.vercel.app
-
----
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <sub style="color: #aabbd9;">Ahsan Ali · Building useful software in public</sub>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Ahsan Ali GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&repos=ahsannraj%2FAhsannRaj%2Cahsannraj%2FDigital-Identity-Showcase&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&repos=ahsannraj%2FAhsannRaj%2Cahsannraj%2FDigital-Identity-Showcase&v=recruiter-projects-1&mode=dark" width="100%" alt="Ahsan Ali selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/AhsannRaj/AhsannRaj">AhsannRaj</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/AhsannRaj/AhsannRaj">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/AhsannRaj/Digital-Identity-Showcase">Digital-Identity-Showcase</a></h3><p>Repository for https://replit.com/@AhsanAli50/Digital-Identity-Showcase</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Ahsan Ali technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ahsannraj&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130326275%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Ahsan Ali contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/ahsannraj">GitHub</a><br /><a href="https://ahsanraj.vercel.app">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Ahsan Ali · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
