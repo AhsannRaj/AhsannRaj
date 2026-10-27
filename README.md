@@ -2,7 +2,7 @@
 
 <table width="100%">
 <tr>
-<td width="64%" valign="middle" align="left">
+<td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · ahsannraj</sub></p>
 <h1>Ahsan Ali</h1>
 <h2>Product-minded developer</h2>
@@ -16,7 +16,6 @@
 </td>
 </tr>
 </table>
-
 </div>
 
 <h2>What teams can evaluate quickly</h2>
@@ -35,10 +34,10 @@
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>2</strong><br><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>5</strong><br><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br><sub>Followers</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
 </tr>
 </table>
 
@@ -70,11 +69,7 @@
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
-<h3><a href="https://github.com/AhsannRaj/Digital-Identity-Showcase">Digital-Identity-Showcase</a></h3>
-<p>Repository for https://replit.com/@AhsanAli50/Digital-Identity-Showcase</p>
-<p><sub>Open source · ⭐ 0</sub></p>
-</td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AhsannRaj/Digital-Identity-Showcase">Digital-Identity-Showcase</a></h3><p>Repository for https://replit.com/@AhsanAli50/Digital-Identity-Showcase</p><p><sub>Open source · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
@@ -87,7 +82,11 @@
 </picture>
 </p>
 
-<p align="center"><sub>Language data will appear as public repositories are indexed.</sub></p>
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+</tr>
+</table>
 
 <h2>Consistency signal</h2>
 
@@ -102,14 +101,8 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle">
-<h2>Let’s talk about the next build</h2>
-<p>Open to thoughtful teams, ambitious products, and useful engineering work.</p>
-</td>
-<td width="38%" valign="middle" align="right">
-<a href="https://github.com/ahsannraj">GitHub</a><br>
-<a href="https://ahsanraj.vercel.app">Website</a>
-</td>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/ahsannraj">GitHub</a><br /><a href="https://ahsanraj.vercel.app">Website</a></td>
 </tr>
 </table>
 
